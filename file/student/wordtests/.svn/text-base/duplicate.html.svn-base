@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE>Duplicate</TITLE>
+</HEAD>
+<BODY>
+<H1>Duplicate</H1>
+<p>This page just repeats itself numerous times with different capitilizations and such, just
+to make sure you don't index the same word twice.</p>
+<p>THIS PAGE JUST REPEATS ITSELF NUMEROUS TIMES WITH DIFFERENT CAPITILIZATIONS AND SUCH, JUST
+TO MAKE SURE YOU DON'T INDEX THE SAME WORD TWICE.</p>
+<p>this page just repeats itself numerous times with different capitilizations and such, just
+to make sure you don't index the same word twice.</p>
+<P>This Page Just Repeats Itself Numerous Times With Different Capitilizations And Such, Just
+To Make Sure You Don'T Index The Same Word Twice.</P>
+</BODY>
+</HTML>

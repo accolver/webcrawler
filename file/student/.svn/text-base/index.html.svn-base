@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+	<TITLE>Start Page</TITLE>
+</HEAD>
+<BODY>
+	This Site tests the basic functionality of a cs240 webcrawler.
+	The first thing that should work properly is parsing links.
+	<h3><a href="./linktests/index.html">Link Tests</a></h3>
+	Then, you should make sure that word parsing works.
+	<h3><a href="./wordtests/index.html">Word Tests</a></h3>
+	Last, you should make sure that description/summary parsing works.
+	<h3><a href="./descriptiontests/index.html">Description Tests</a></h3>
+	Then, use an HTML site to make sure robot-filter works.
+	For each test, you should make sure your output is correct.
+	
+	This site doesn't attempt to test for everything, feel free to
+	add tests as you see fit. You can download a tar file of this site
+	from the project page.
+</BODY>
+</HTML>

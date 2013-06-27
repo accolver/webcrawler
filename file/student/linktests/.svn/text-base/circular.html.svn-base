@@ -1,0 +1,15 @@
+<HTML>
+<HEAD>
+    <TITLE>Circular</TITLE>
+</HEAD>
+<BODY>
+<h1>Circular</h1>
+<a name="Top">Top</a><br>
+This test looks to see if you treat links with fragments as the same page as the original.
+Make Sure this page doesn't show up in the output twice!<br>
+<a href="circular.html#top"> Link to Top.</a><br>
+<a href="#bottom">Link to Bottom</a><br>
+<a name="bottom">Bottom</a>
+
+</BODY>
+</HTML>

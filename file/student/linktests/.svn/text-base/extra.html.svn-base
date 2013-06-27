@@ -1,0 +1,22 @@
+<HTML>
+<!--<a href="./extra1.html">Extra1</a>-->
+<HEAD>
+    <TITLE>Extra</TITLE>
+   <!-- <a href="./extra1.html">Extra1</a>-->
+</HEAD>
+<!--<a href="./extra1.html">Extra1</a>-->
+<!--The above links are commented out because although <a> tags SHOULD only appear inside the body,
+most browsers will stick them in, and we don't really specify that, so We're going to try not to test it.  -->
+<BODY>
+<h1>Extra</h1>
+<!--Extra Tests-->
+Basically, this page has some hidden links in it in places where you shouldn't have them.
+They all link to the same page, so if that page is in your output, you're parsing places you shouldn't.
+Depending on your web-browser, some of these links may actually show up. Don't be fooled!<br>
+<IMG src="extra1.html">Image, not link.<br>
+<!--<a href="./extra1.html">Extra1</a>-->
+</BODY>
+
+</HTML><a href="./extra1.html">Extra1</a><!--However, this is outside the HTML, so even though your browser may show it,
+it is deffinantly outside of our specs, but currently our webcrawler accepts them, so I'm going to cut out this test
+till I get things figured out-->

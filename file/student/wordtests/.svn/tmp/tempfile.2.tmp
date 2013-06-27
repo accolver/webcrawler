@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE>Punctuation</TITLE>
+</HEAD>
+<BODY>
+<H1>Punctuation</H1>
+Words must be split on punctuation.So I'm going to run sentences together for one test.How bout that.<br>
+Tags<em>should</em>also<b>be</b>treated<i>as</i>punctuation.<br>
+Special&cedil;Characters&#60;entities&gt;Should&#174;also&#178;seperate&#172;words&amp;sentences&iexcl;
+
+<p>Numbers, underscores and dashes should not seperate words, so NO PART
+of the following sequences should be included as words <br> 
+ -options 3rd  _pythonic_
+ 
+</BODY>
+</HTML>
